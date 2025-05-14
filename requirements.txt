@@ -7,6 +7,4 @@ python-dotenv
 pydantic
 duckduckgo-search
 streamlit
-phonenumbers
-beautifulsoup4
-mechanize
+
