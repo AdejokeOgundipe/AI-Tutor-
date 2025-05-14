@@ -16,6 +16,7 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
+
 # Sidebar
 st.sidebar.title("Tech Guru")
 st.sidebar.image("https://your-logo-url.com/logo.png", width=200)
